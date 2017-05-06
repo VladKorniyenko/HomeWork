@@ -1,0 +1,54 @@
+*{margin: 0px;
+  padding: 0px;
+       }
+body{
+     background-color: azure;
+}
+.page{
+    background-color: white;
+    width: 50%;
+    height: 940px;
+    margin: 0px 400px;
+}
+h1{
+    text-align: center; 
+    line-height: 75px;
+    padding: 1% 4% 0%; 
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 0% 35%;
+
+}
+.student{
+    margin: 0px 210px;
+    
+    line-height: 60px;
+}
+.block1{
+    margin: 0px 210px;
+    padding: 3% 0%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+ul{
+    padding: 3% 7% 0%;
+}
+.block2{
+   margin: 0px 210px; 
+   padding: 3% 0% 1%; 
+}
+.block2>p{
+   padding: 4% 5%;  
+}
+.block3{
+   margin: 0px 210px; 
+   padding: 3% 0%; 
+   border-top: 1px solid black;
+}
+.block3>p{
+   padding: 4% 5%;  
+}
